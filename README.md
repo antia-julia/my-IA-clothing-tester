@@ -42,6 +42,7 @@ How to use it
 
 ![image](https://github.com/user-attachments/assets/6880cc49-c219-4983-a9c8-2f0f50624737)
 
+
 ## Data sources and AI methods
 
 Data Sources
