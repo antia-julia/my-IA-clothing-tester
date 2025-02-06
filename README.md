@@ -58,6 +58,8 @@ Regarding vulnerability issues, the following situations could arise:
 
 ## What next?
 
+Simulate how the clothing from the store would fit you, showing the differences between the same product in different sizes. This is useful because a person may prefer looser clothing according to their taste and comfort.
+
 I suppose that with knowledge, time, personnel, and money, anything is possible.
 
 
