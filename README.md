@@ -24,11 +24,15 @@ In my case, since the COVID lockdown, I don't like crowds and whenever I can, I 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+This idea would be implemented mainly in clothing stores, fitting rooms, or in a column in the middle of the store so that the customer can use it without needing to enter the fitting room or if they are occupied.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+How to use it
+Activation: The customer arrives and stands in front of the mirror. The user can activate the AI with a command, for example, "Hello Zara". The camera or AI will activate.
+Initial Interaction: The AI will ask if the customer needs help analyzing a product. The customer responds yes.
+Product Analysis: The AI proceeds to analyze the product, identifying it with its corresponding ID or SKU. For example, it might say: "This is the Logo t-shirt, black color, size S. Regular fit."
+Size Inquiry: The AI asks if the customer needs to know if that is the correct size for them. If the customer responds yes, the AI will ask for permission to obtain their measurements.
+Obtaining Measurements: The customer can provide their measurements orally or the AI can calculate them using its own camera.
+Size Recommendation: Once the measurements are obtained, the AI will say: "Your ideal size is S, but if you like looser clothing, we recommend one size up. If you prefer fitted clothing, you could try one size down, but it might be tight on the back (since the AI knows your back width is 1 cm larger than the t-shirt, although this can also depend on the type of fabric if it is stretchy)."
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
