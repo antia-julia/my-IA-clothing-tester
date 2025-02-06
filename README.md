@@ -43,19 +43,13 @@ How to use it
 ![image](https://github.com/user-attachments/assets/6880cc49-c219-4983-a9c8-2f0f50624737)
 
 
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+There are things that this AI could not answer:
+
+1. Products from other companies: It cannot measure products that are not from the company itself.
+2. Personal preferences: It cannot tell you if the red dress or the pink dress suits you better.
+3. One-size-fits-all products: For one-size-fits-all products, like hats, it could measure the circumference of your head or the hat, but it either fits or it doesn't. Asking this to an AI wouldn't make much sense.
 
 ## What next?
 
