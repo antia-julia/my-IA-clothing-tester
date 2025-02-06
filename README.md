@@ -99,4 +99,5 @@ I suppose that with knowledge, time, personnel, and money, anything is possible.
 ## Acknowledgments
 
 This technology is inspired by the combination of advanced techniques in image processing, voice recognition, and recommendation systems to enhance the shopping experience in clothing stores.
+
 Thanks to https://www.elementsofai.com/ for providing me with AI knowledge.
