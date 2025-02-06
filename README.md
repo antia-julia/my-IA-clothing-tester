@@ -51,6 +51,11 @@ There are things that this AI could not answer:
 2. Personal preferences: It cannot tell you if the red dress or the pink dress suits you better.
 3. One-size-fits-all products: For one-size-fits-all products, like hats, it could measure the circumference of your head or the hat, but it either fits or it doesn't. Asking this to an AI wouldn't make much sense.
 
+Regarding vulnerability issues, the following situations could arise:
+
+1. Activation without consent: The AI could activate without the customer's consent due to a problem with voice recognition, ambient noise, or because something similar to "Hello Zara" was said.
+2. Accidental activation: The AI could accidentally activate while cleaning the mirror if it is touched by hand.
+
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
