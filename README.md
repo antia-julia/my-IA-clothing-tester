@@ -42,6 +42,38 @@ How to use it
 
 ![image](https://github.com/user-attachments/assets/6880cc49-c219-4983-a9c8-2f0f50624737)
 
+## Data sources and AI methods
+
+Data Sources
+1. Clothing Images: A dataset of images of different garments, labeled with their dimensions and characteristics (e.g., type of garment, color, size).
+2. Body Measurements: Data on body measurements of different people, which can be obtained through surveys or existing databases.
+3. Size Preferences: Information on users' size preferences (e.g., whether they prefer tight or loose clothing).
+4. Product SKU/ID Data: Detailed information on store products, including SKU, dimensions, and descriptions.
+   
+Methods
+Image Processing:
+1. Object Detection: Use object detection models (like YOLO, Faster R-CNN) to identify and segment garments in images.
+2. Image Recognition: Use convolutional neural networks (CNN) to classify garments and extract relevant features.
+   
+Natural Language Processing (NLP):
+1. Voice Recognition: Implement a voice recognition system to activate the AI and receive user commands.
+2. Text Analysis: Use NLP techniques to interpret user responses and extract verbally provided body measurements.
+
+Prediction Models:
+1. Neural Networks: Train a neural network to predict the user's ideal size based on the garment's measurements and the user's body measurements.
+2. Recommendation Systems: Implement a recommendation system to suggest alternative sizes according to user preferences.
+   
+User Interface:
+1. Software Development: Create an intuitive user interface that allows customers to interact with the AI easily and efficiently.
+2. Hardware Integration: Integrate the camera and smart mirror with the AI software to capture images and provide real-time feedback.
+   
+Tools and Technologies
+1. Machine Learning Libraries: TensorFlow, PyTorch, Keras
+2. Image Processing Libraries: OpenCV, PIL
+3. NLP Libraries: NLTK, spaCy, SpeechRecognition
+4. Software Development Frameworks: Flask, Django for backend; React, Angular for frontend
+Hardware: High-resolution cameras, smart mirrors
+
 
 ## Challenges
 
