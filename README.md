@@ -43,6 +43,9 @@ How to use it
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="src="https://www.shutterstock.com/image-photo/full-length-profile-shot-young-260nw-2201187189.jpg" width="300">
 
+![image](https://github.com/user-attachments/assets/6880cc49-c219-4983-a9c8-2f0f50624737)
+
+
 
 This is how you create code examples:
 ```
