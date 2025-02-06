@@ -41,7 +41,8 @@ How to use it
 6. Size Recommendation: Once the measurements are obtained, the AI will say: "Your ideal size is S, but if you like looser clothing, we recommend one size up. If you prefer fitted clothing, you could try one size down, but it might be tight on the back (since the AI knows your back width is 1 cm larger than the t-shirt, although this can also depend on the type of fabric if it is stretchy)."
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="src="https://www.shutterstock.com/image-photo/full-length-profile-shot-young-260nw-2201187189.jpg" width="300">
+
 
 This is how you create code examples:
 ```
