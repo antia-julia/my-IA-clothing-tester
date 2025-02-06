@@ -40,30 +40,7 @@ How to use it
 
 6. Size Recommendation: Once the measurements are obtained, the AI will say: "Your ideal size is S, but if you like looser clothing, we recommend one size up. If you prefer fitted clothing, you could try one size down, but it might be tight on the back (since the AI knows your back width is 1 cm larger than the t-shirt, although this can also depend on the type of fabric if it is stretchy)."
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="src="https://www.shutterstock.com/image-photo/full-length-profile-shot-young-260nw-2201187189.jpg" width="300">
-
 ![image](https://github.com/user-attachments/assets/6880cc49-c219-4983-a9c8-2f0f50624737)
-
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
